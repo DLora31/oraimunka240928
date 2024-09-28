@@ -2,10 +2,13 @@
 #import negyedik
 #import hatodik
 #import tizenegyedik
-import tizenhatodik
+#import tizenhatodik
+import elágazások
 
 # print("szia")
 #negyedik.negyedikFeladat()
 #hatodik.hatosFeladat()
 #tizenegyedik.tizenegyedikFeladat()
-tizenhatodik.tizenhatodikFeladat()
+#tizenhatodik.tizenhatodikFeladat()
+#elágazások.elso()
+elágazások.masodik()
